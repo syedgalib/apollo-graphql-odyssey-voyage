@@ -113,6 +113,16 @@ To run the servers in the `final` folder:
    }
    ```
 
+## Subgraphs
+### Locations
+- [Repo](https://github.com/syedgalib/apollo-graphql-odyssey-voyage-subgraph-locations/)
+- [GraphQL Endpoint](https://apollo-graphql-odyssey-voyage-subgraph-locations.vercel.app/)
+
+### Reviews
+- [Repo](https://github.com/syedgalib/apollo-graphql-odyssey-voyage-subgraph-reviews/)
+- [GraphQL Endpoint](https://apollo-graphql-odyssey-voyage-subgraph-reviews.vercel.app/)
+
+
 ## Getting Help
 
 For any issues or problems concerning the course content, please refer to the [Odyssey topic in our community forums](https://community.apollographql.com/tags/c/help/6/odyssey).
